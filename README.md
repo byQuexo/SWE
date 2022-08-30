@@ -8,10 +8,11 @@
 //<<<<<<< main
 ![alt_text](https://pbs.twimg.com/profile_images/1354145923220332544/-fI1GtwH_400x400.jpg)
 
-Ich bin Der Meinung das Tim ein Knecht ist\n
+Ich bin Der Meinung das Tim ein Knecht ist
 Hey ich bins....Moritz!
 #Antonio War Hier
 =======
 
 #HALLLOOOOO
 //>>>>>>> SWE
+>>>>>>> e36233bdb20d1bdd2e0b5ad56040f55dc45022e1
